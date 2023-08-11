@@ -1,16 +1,6 @@
-### Hi there 👋
+I am confident that my enthusiasm for learning, combined with my academic background and passion for technology, would make me a valuable asset to any team. I am excited to explore new opportunities and challenges in the industry and am eager to enhance my expertise through hands-on experience.
 
-<h1 align="center">Hi 👋, I'm Deepak Prajapat</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+I am committed to delivering high-quality work and possess excellent communication and teamwork skills. I believe that my analytical mindset and ability to think critically would enable me to contribute effectively to any project or task.
 
-- 🌱 I’m currently learning **Machine Learning**
+Overall, I am looking forward to leveraging my skills and knowledge to pursue a fulfilling career in the MNC.
 
-- 📫 How to reach me **deepak27prajapat@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/deepakprajapat-16638023b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepakprajapat-16638023b/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
